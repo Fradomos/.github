@@ -1,82 +1,95 @@
 <div align="center">
 
-# Fradomos
+<img src="https://raw.githubusercontent.com/Fradomos/.github/main/profile/banner.png" alt="Fradomos: feel at home from anywhere" width="100%">
 
-### Feel at home from anywhere.
+<br>
 
-A private smart home system that **works without internet** and controls lights, air conditioning, security, cameras and energy from **one calm app**.
-
-[Website](https://fradomos.com) · [Web shop](https://shop.fradomos.com) · [Account](https://account.fradomos.com) · [Instagram](https://www.instagram.com/fradomos) · [LinkedIn](https://www.linkedin.com/company/fradomos)
+**[🌐 Website](https://fradomos.com)** &nbsp;·&nbsp; **[🛒 Shop](https://shop.fradomos.com)** &nbsp;·&nbsp; **[👤 My account](https://account.fradomos.com)** &nbsp;·&nbsp; **[📡 Remote](https://remote.fradomos.com)** &nbsp;·&nbsp; **[🏠 Studio](https://studio.fradomos.com)**
 
 </div>
 
----
+<br>
 
-## What is Fradomos?
+## <img src="https://raw.githubusercontent.com/Fradomos/.github/main/profile/logo.png" width="30" align="center" alt=""> What is Fradomos?
 
-Most smart homes send everything you do to servers you do not control. Fradomos is built the other way round:
+A private smart home. One calm app for your whole house.
 
-- **Your data stays in your house.** Rooms, devices, history and pictures live in a small box at home (the *miniserver*). Our cloud only holds your online account and a small address book.
-- **It works without internet.** At home, every light, sensor and warning keeps working when the internet is down. Remote access is an extra, not a requirement.
-- **Simple for the whole family.** One calm design for everyone. You decide who may do what, per person and per room, at home and away.
-- **Honest and fair.** Using Fradomos at home is free, always. You pay only to reach your home from anywhere, with a free trial first and no advertising.
+- 💡 Lights, air conditioning, gates
+- 🛡️ Security, cameras, gas and door warnings
+- ⚡ Energy and routines
+- 🔒 Your data stays **in your home**
+- 📶 Works **without internet**
+- 🆓 **Free at home**, always. No ads.
 
-## Who founded it?
+<br>
 
-Fradomos was founded by **[Endri Ndoja](https://encodex.dev)** ([LinkedIn](https://www.linkedin.com/in/endri-ndoja-b10664339/)) to fix the security problems of smart homes and to bring an easier life.
+## ✨ Services for you
 
-## Our story
+| | Service | What you do there |
+|---|---|---|
+| 🏠 | **[Fradomos Studio](https://studio.fradomos.com)** | • Design your home in 3D<br>• Draw rooms, floors, stairs and roofs<br>• Place lights, devices and furniture<br>• Walk through it before you build |
+| 📡 | **[Fradomos Remote](https://remote.fradomos.com)** | • Open your home from anywhere<br>• Switch lights, run routines<br>• See cameras, energy and alerts<br>• Manage your plan and billing |
+| 👤 | **[Account Center](https://account.fradomos.com)** | • One account for all your homes<br>• Your profile and security<br>• Your homes and who may connect |
+| 🛒 | **[Fradomos Shop](https://shop.fradomos.com)** | • Order Fradomos products<br>• Track your orders<br>• Write reviews |
+| 🌐 | **[fradomos.com](https://fradomos.com)** | • Learn how it works<br>• Help articles and news<br>• Pricing and contact |
+| 📱 | **Phone app** | • Control your home at home and away<br>• Floor plan, routines, music, guests |
+| 📺 | **TV app** | • Your home on the big screen<br>• Pair it with your phone by QR code |
+| 🖥️ | **Home dashboard** | • Set up and run your home, even offline<br>• Rooms, devices, people, energy |
 
-| When | What happened |
-|---|---|
-| **2024** | It starts as a project: lights switched on and off with some hardware and a mobile phone. The same year it grows into the first hardware that really switches devices. |
-| **2025** | The network and the server infrastructure are built. The local system arrives, and remote control is replaced by a design where the data is saved in the miniserver at home. Fradomos becomes a diploma project at the HTL "Peter Mahringer" in Shkodër, Albania. In **October 2025** the team wins **first place at Youth Start** (real-market category). |
-| **2026** | More things to control: an air-conditioner controller, temperature and gas measurement, a gate controller, a wall screen, an intercom. The diploma project is finished in April. In **October 2026** the redesign begins: better security, a better system and a better experience. |
+<br>
 
-## What we make
+## 🔌 What we make
 
-| Product | Status |
-|---|---|
-| **Circuit boards**: relay boards that switch lights and appliances | Available |
-| **Temperature & gas sensor** | Available |
-| **Wall screen**: a 7-inch control panel for the wall | Available |
-| **Fradomos Beam**: infrared control for air conditioners and TVs | New |
-| **Intercom**: see, hear and talk to your door | New |
-| **Voice button**: push, speak, done | Coming soon |
-| **Fraddo speaker**: a speaker that answers to its name | Coming soon |
-| **Apps & dashboards**: phone app, Android TV app, web dashboards at home and away, floor plan, routines, energy, cameras | Available / growing |
-| **Fradomos Studio**: design your home in 3D | In development |
+- 🔘 **Circuit boards** for lights and appliances &nbsp;`Available`
+- 🌡️ **Temperature & gas sensor** &nbsp;`Available`
+- 🖼️ **Wall screen** &nbsp;`Available`
+- 🎛️ **Fradomos Beam** for air conditioners and TVs &nbsp;`New`
+- 🔔 **Intercom** &nbsp;`New`
+- 🎙️ **Voice button** &nbsp;`Coming soon`
+- 🔊 **Fraddo speaker** &nbsp;`Coming soon`
 
-## How it fits together
+<br>
 
-```
-   ESP32 boards, sensors, screens          Your miniserver at home          Fradomos cloud
-   (lights, AC, gates, gas, intercom)  ─▶  (all your data, local dashboard,  ─▶  (account + secure connection
-                                            works without internet)               for use away from home)
-                                                    ▲                                     ▲
-                                              Phone app · TV app · wall screen · web dashboard
-```
+## 👤 Who founded it?
 
-## The plan
+- **[Endri Ndoja](https://encodex.dev)** founded Fradomos ([LinkedIn](https://www.linkedin.com/in/endri-ndoja-b10664339/))
+- Goal: **safer smart homes** and an **easier life**
 
-**Now: a better, safer Fradomos** (the redesign that began in October 2026)
-- A stronger security model: the home decides who may enter, the cloud only relays.
-- A calmer, faster experience in every app and dashboard.
-- Online accounts, one account for every home you use.
+<br>
+
+## 📖 Our story
+
+- **2024** – a project: lights switched with hardware and a phone
+- **2025** – the local system. Data stays at home. A diploma project at HTL "Peter Mahringer", Shkodër
+- **Oct 2025** – 🥇 **first place at Youth Start**
+- **2026** – air conditioning, sensors, gates, wall screen, intercom
+- **Oct 2026** – the redesign: safer, simpler, better
+
+<br>
+
+## 🗺️ The plan
+
+**Now**
+- 🔐 A safer Fradomos
+- ✨ A calmer, faster experience everywhere
+- 👤 One account for every home
 
 **Next**
-- Motion and light sensors, and routines that start from a sensor (for example a door opening).
-- The voice button and the Fraddo speaker: voice control that understands your house and listens only when you ask it to.
-- More ways to design and set up a home: Fradomos Studio.
+- 🚪 Motion and light sensors
+- ⚙️ Routines that start from a sensor
+- 🎙️ Voice button and Fraddo speaker
+- 🏠 More tools to design your home
 
 **Always**
-- Free at home. No advertising. Your data stays yours.
-- Open, honest information about what works today and what is still coming.
+- 🆓 Free at home
+- 🔒 Your data stays yours
+- 🤝 Honest about what works today
 
-## Get in touch
+<br>
 
-Questions about building or buying a Fradomos system? Visit **[fradomos.com](https://fradomos.com)** or write to us through the contact form on the website.
+## 💬 Contact
 
----
+- 🌐 [fradomos.com](https://fradomos.com)
+- 📸 [Instagram](https://www.instagram.com/fradomos) · 💼 [LinkedIn](https://www.linkedin.com/company/fradomos) · 👍 [Facebook](https://www.facebook.com/people/Fradomos/61574066033484/)
 
-<sub>© Fradomos. The code of our products is private; this page is the public face of the organisation.</sub>
+<div align="center"><sub>© Fradomos · Feel at home from anywhere</sub></div>
